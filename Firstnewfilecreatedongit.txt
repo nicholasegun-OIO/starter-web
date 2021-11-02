@@ -1,0 +1,1 @@
+I created a branch called '6796', then I pushed it to remote, checked it out on another machine, made other edits, pushed it, then merged it with the master, and deleted it - locally and remotely (git push :6796) - on the other machine. Now, when I run git pull:
